@@ -109,6 +109,7 @@
             //Final Problem 8
             //var animals = database.GetCollection<Animal>("animals"); 
 
+            Console.WriteLine("Hit enter to continue.");
             Console.ReadLine();
         }
     }
